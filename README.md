@@ -6,3 +6,10 @@ Test repository for CodePulse HQ engineering analytics R&amp;D
 - Understand pull request analytics.
 - Explore code review metrics.
 - Investigate development workflow insights.
+
+## Setup Guide
+
+1. Clone the repository.
+2. Review the project documentation.
+3. Explore the available engineering analytics.
+4. Record findings for the CodePulse HQ R&D evaluation.
